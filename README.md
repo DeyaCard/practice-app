@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Udemy Practice React App
+
+By Deya Card
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
